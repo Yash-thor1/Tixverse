@@ -37,8 +37,6 @@ tixverse/
 │   └── style.css
 ├── js/
 │   └── app.js
-├── assets/
-│   └── .gitkeep
 ├── .gitignore
 └── README.md
 ```
