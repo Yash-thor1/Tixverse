@@ -32,13 +32,14 @@ A modern, responsive ticket-booking frontend built with HTML, CSS and vanilla Ja
 
 ```text
 tixverse/
-├── index.html
 ├── css/
 │   └── style.css
 ├── js/
 │   └── app.js
 ├── .gitignore
-└── README.md
+├── README.md
+└── index.html
+
 ```
 
 ## ▶️ Run Locally
